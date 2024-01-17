@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhigyann-Singh
+- 👋 Hi, I’m @Abhigyan-Singh
 - 👀 I’m interested in Machine Learning
 
 <!---
